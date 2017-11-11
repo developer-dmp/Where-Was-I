@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-26.0.0-alpha1_232038f4517bb783930e4151c8fd066caee5615f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-26.0.0-alpha1_62ffeededc2fac0a2986091607a1e1e916556dbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-26.0.0-alpha1_704a31e63e1b6c77044cc0a5822cc07d9c292de4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/android-sdks/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_b25d44838081c5aa512afc042865235f7d293e9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-26.0.0-alpha1_b159bd01ec6c503ba2b01f9b5aad1d0c21f67103/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-26.0.0-alpha1_88fae0b5acdde64bc14b145aaf303fe3fe077659/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-26.0.0-alpha1_a86a970403ee0d0746accc2c1b432b9fb8d633b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-11.0.4_99376c271b88932b22e67dae0e7828ce824ce338/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-26.0.0-alpha1_ad985cd3c7771ace55961479ef32d4c4adcae352/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-11.0.4_b48d223d2345a9a16b073b48231eef33dd8c01f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-26.0.0-alpha1_e5e18e9b587312aee6376d345e163fa42d0ab68b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-11.0.4_feb35ab995eaf6e5e106cfa5e5b447a35bec3f20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="55719a76a09a2b8616d2eeb95509904f86d926eb">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2d7fb277ffa406b78c8dcb7ffc79c53357228082/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-26.0.0-alpha1_54d5b1ce9c1af238b7e6ef8d21d6d4da6526dfba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-26.0.0-alpha1_2ee2eee1368c8a405a3ecf1dda48ca9edefe4e8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-11.0.4_55c6dec96a49d398888c627954c0ab5f6c77048c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b11a3e1baadd5af2c7af76acf3daa73018001bfa">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_172dcde28ef72a2cf5a6aafb281cfc5e89f14939/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-26.0.0-alpha1_7f959a1c308847fb1d597a997c1cd1bb8317ea8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/DomenicPolidoro/Desktop/WhereWasI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-26.0.0-alpha1_18bb299e2c51335ecb3645ecb9e479078dc8494e/classes.dex" />
+    </item>
+
+</items>
